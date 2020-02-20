@@ -87,7 +87,7 @@
         android:clickable="true"
         card_view:srcCompat="@android:drawable/ic_input_add"
         app:layout_anchor = "@id/cardView3"
-        app:layout_anchorGravity = "center_vertical|right"
+        app:layout_anchorGravity = "top|right"
         android:focusable="true" />
 
 
